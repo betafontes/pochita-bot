@@ -20,6 +20,11 @@ Esse repositório foi desenvolvido inspirado no video da Landing Page Balle Bot 
 
 ## 🖼️ Layout
 
+https://betafontes.github.io/pochita-bot/
+
+![image](https://user-images.githubusercontent.com/70981960/201725834-20d657b6-e1d9-4667-98d9-4df98db76ffe.png)
+
+
 <hr>
 
 Feito com ♥ by betafontes :wave: 
