@@ -18,6 +18,8 @@ Esse repositório contém essas tais tecnologias :
 
 Esse repositório foi desenvolvido inspirado no video da Landing Page Balle Bot do canal da Rafaella Ballerini
 
+## 🖼️ Layout
+
 <hr>
 
 Feito com ♥ by betafontes :wave: 
